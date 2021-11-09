@@ -24,7 +24,7 @@ this data was provide by Nik Davis on Kaggle:
 - owners: estimated number of owners. Contains lower and upper bound (like 20000-50000)
 - price: current full price of title in GBP
 # Data Rows and Columns:
--this data has over 27000 rows and 18 columns.
+- this data has over 27000 rows and 18 columns.
 # Tools:
 - Jupyter notebook
 - Libraries(Pandas,Numpy,matplotlib)
