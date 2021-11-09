@@ -29,7 +29,7 @@ this data was provide by Nik Davis on Kaggle:
 - Jupyter notebook
 - Libraries(Pandas,Numpy,matplotlib)
 # Questions
-1- what is the most categorie games that has high average playtime.
-2-
-3- 
-4-
+1. what is the most categorie games that has high average playtime.
+2.
+3. 
+4.
