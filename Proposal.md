@@ -1,11 +1,11 @@
 # Steam store database
-# intro
+# Intro
 This data provides information about games on steam store, such as number of owners and the average playtime etc.
 This data was gathered until around May 2019 it's includ most games on the store prior to that date,
 this data was provide by Nik Davis on Kaggle:
 - data link: https://www.kaggle.com/nikdavis/steam-store-games
-# features of dataset:
-- appid: Unique identifier for each title
+# Features of dataset:
+- appid: unique identifier for each title
 - name: title of the game
 - release-date: release date of the game
 - english: does the game support english
