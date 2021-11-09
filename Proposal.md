@@ -29,7 +29,8 @@ this data was provide by Nik Davis on Kaggle:
 - Jupyter notebook
 - Libraries(Pandas,Numpy,matplotlib)
 # Questions
-1. what is the most categorie games that has high average playtime.
-2.
-3. 
-4.
+1. What is the most categorie games that has high average playtime.
+2. Does the name of the studio developer effict people to buy the game.
+3. Does the name of the game has strong effict for making people to buy the game and play for long hours.
+4. Does negative ratings and positive ratings has strong effict more than studio developer. 
+5. What is the most supported platforms.
