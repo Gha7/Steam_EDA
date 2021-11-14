@@ -29,7 +29,7 @@ this data was provide by Nik Davis on Kaggle:
 - this data has over 27000 rows and 18 columns.
 # Tools:
 - Jupyter notebook
-- Libraries(Pandas,Numpy,matplotlib)
+- Libraries(Pandas,Numpy,matplotlib,seaborn)
 # Questions
 1. What are the most games that has the highest positive ratings?
 2. What are the most genres based on the number of owners?
