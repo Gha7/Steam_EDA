@@ -31,8 +31,7 @@ this data was provide by Nik Davis on Kaggle:
 - Jupyter notebook
 - Libraries(Pandas,Numpy,matplotlib)
 # Questions
-1. What is the most games that has positive ratings.
-2. Does the name of the studio developer effict people to buy the game.
-3. Does the name of the game has strong effict for making people to buy the game and play for long hours.
-4. Does negative ratings and positive ratings has strong effict more than studio developer. 
-5. What is the most supported platforms.
+1. What are the most games that has the highest positive ratings?
+2. What are the most genres based on the number of owners?
+3. Does the game affect the number of owners if it's a Single-Player or Multi-Player?
+4. Does the game, if it's free or paid, affect its spread among users?
