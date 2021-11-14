@@ -37,3 +37,5 @@ this data was provide by Nik Davis on Kaggle:
 4. Does the game, if it's free or paid, affect its spread among users?
 # MVP:
 The MVP goal is to answer at least three of the questions I mentioned.
+# Author
+[@Gha7](https://github.com/Gha7)
