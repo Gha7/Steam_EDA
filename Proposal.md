@@ -32,7 +32,7 @@ this data was provide by Nik Davis on Kaggle:
 - Libraries(Pandas,Numpy,matplotlib,seaborn)
 # Questions:
 1. in the last 5 years, what are the most games that has the highest positive ratings?
-2. What are the most genres based on the number of owners?
+2. in the last 5 years, what are the most genres based on the number of owners?
 3. Does the game affect the number of owners if it's a Single-Player or Multi-Player?
 4.  Does the game, if it's free or paid, affect on the number of owners?
 # MVP:
