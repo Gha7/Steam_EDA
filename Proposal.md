@@ -7,29 +7,21 @@ this data was provide by Nik Davis on Kaggle:
 - data link: https://www.kaggle.com/nikdavis/steam-store-games
 - or you can download from attached files.
 # Features of dataset:
-- appid: unique identifier for each title
-- name: title of the game
-- release-date: release date of the game
-- english: does the game support english
-- developer: name (or names) of developer
-- publisher: name (or names) of publisher(s)
-- platforms: where does the game published
-- required_age: minimum required age according to PEGI UK
-- categories: game categories
-- genres: game genres
-- steamspy_tags: list of top steamspy game tags
-- achievements: Number of in-games achievements, if any
-- positive_ratings: number of positive ratings
-- negative_ratings: number of negative ratings
-- average_playtime: average user playtime
-- median_playtime: median user playtime
-- owners: estimated number of owners. Contains lower and upper bound (like 20000-50000)
-- price: current full price of title in GBP
+- name: title of the game.
+- release-date: release date of the game.
+- categories: game categories.
+- genres: game genres.
+- positive_ratings: number of positive ratings.
+- negative_ratings: number of negative ratings.
+- avg_owners: estimated avg number of owners.
+- price: current full price of title in GBP.
+- years: in which year the game has published.
+- total_profit: total profit for each game.
 # Data Rows and Columns:
-- this data has over 27000 rows and 18 columns.
+- this data has over 27000 rows and 10 columns.
 # Tools:
 - Jupyter notebook
-- Libraries(Pandas,Numpy,matplotlib,seaborn)
+- Libraries(Pandas,Numpy,matplotlib,seaborn,plotly)
 # Questions:
 1. In the last 5 years, what are the most games that has the highest positive ratings?
 2. In the last 5 years, what are the most genres based on the number of owners?
