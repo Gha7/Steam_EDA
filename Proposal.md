@@ -28,7 +28,7 @@ this data was provide by Nik Davis on Kaggle:
 2. In the last 5 years, what are the most genres based on the number of owners?
 3. In the last 5 years, Does the games affect the number of owners if it's a Single-Player or Multi-Player?
 4. In the last 5 years, Does the games, if it's free or paid, affect on the number of owners?
-5. In the last 5 years. what about total profit
+5. In the last 5 years. what about total profit?
 # MVP:
 The MVP goal is to answer at least three of the questions I mentioned.
 # Author
