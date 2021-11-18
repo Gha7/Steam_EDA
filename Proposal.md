@@ -22,6 +22,7 @@ this data was provide by Nik Davis on Kaggle:
 # Tools:
 - Jupyter notebook
 - Libraries(Pandas,Numpy,matplotlib,seaborn,plotly)
+- Canva
 # Questions:
 1. In the last 5 years, what are the most games that has the highest positive ratings?
 2. In the last 5 years, what are the most genres based on the number of owners?
