@@ -30,6 +30,6 @@ this data was provide by Nik Davis on Kaggle:
 4. In the last 5 years, Does the games, if it's free or paid, affect on the number of owners?
 5. In the last 5 years. what about total profit?
 # MVP:
-The MVP goal is to answer at least three of the questions I mentioned.
+The MVP goal is to answer at least three of the mentioned questions.
 # Author
 [@Gha7](https://github.com/Gha7)
